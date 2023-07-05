@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">JDCG_Eva02</string>
+    <string name="google_api_key" translatable="false">AIzaSyCFKrfu4P7tmvBbp1qY-FdZpbjT6jyWXjo</string>
+    <string name="informationTitle">Informacion</string>
+    <string name="informationText">Este panel conprueba a lo aprendido y comprndido en clase, por mala suerte se me hace dificil avanzar solo, es por eso que se intenta mejorar tanto en diseño, como logica de programacion</string>
+</resources>
